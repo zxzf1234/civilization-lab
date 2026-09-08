@@ -3,3 +3,8 @@
 这里记录书籍、论文、文章、数据集和演讲等来源。资料卡片主要回答：作者说了什么、依据是什么、可信度如何、能支持或反驳哪些议题。
 
 建议一项来源对应一个文件，并使用 [`资料卡片模板`](../templates/source-note.md)。原文摘录应标注页码或具体位置，自己的评价与原作者观点要分开。
+
+## 当前资料
+
+- [Military Institutions as a Defining Feature of the Song Dynasty](song-military-institutions.md)
+- [The story of small state survival: Past, present, and future](small-state-survival.md)
