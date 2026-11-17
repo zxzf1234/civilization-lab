@@ -10,3 +10,7 @@
 ## 笔记索引
 
 <!-- 新笔记按“概念 / 机制 / 理论 / 案例”分组添加到这里。 -->
+
+## 相关议题
+
+- [佛教的历史演变与分析框架](../../../topics/buddhism-history-and-analytic-framework/README.md)

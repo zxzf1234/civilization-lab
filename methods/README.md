@@ -13,3 +13,7 @@
 方法笔记回答“我们怎样知道一个判断是否可信”，不直接替代具体议题的证据和论证。
 
 新建方法笔记时使用 [`方法模板`](../templates/method-note.md)。
+
+## 方法索引
+
+- [如何判断国家是否处于兴盛或衰落阶段](measuring-state-rise-and-decline.md)

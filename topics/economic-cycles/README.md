@@ -24,6 +24,11 @@
 
 [经济](../../domains/economics/README.md) · [政治](../../domains/politics/README.md) · [地理](../../domains/geography/README.md) · [历史](../../domains/history/README.md)
 
+## 相关资料
+
+- [汪有：中国与日本居民信贷周期对比](../../sources/wang-you-china-japan-household-credit-cycle.md)：可用于提出居民信用收缩问题，但跨国口径、部分年度与完整年度比较及周期预测均需进一步核验。
+- [中国房地产调整与日本九十年代房地产泡沫破裂有多相似](../china-japan-real-estate-comparison.md)：比较两国的资产—信用机制、人口条件、风险承担主体及制度差异。
+
 ## 阶段性结论
 
 > 尚待研究。注意区分描述性规律、因果机制和预测模型。

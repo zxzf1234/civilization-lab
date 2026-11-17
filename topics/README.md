@@ -8,5 +8,6 @@
 - [经济兴衰的规律](economic-cycles/README.md)
 - [地理对国家的影响](geography-and-states/README.md)
 - [宗教、文化对国家的影响](religion-culture-and-states/README.md)
+- [佛教的历史演变与分析框架](buddhism-history-and-analytic-framework/README.md)
 
 “规律”在这里指可比较、可反驳的机制或倾向，不预设存在适用于所有时代和国家的单一公式。
